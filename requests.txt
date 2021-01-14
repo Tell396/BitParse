@@ -1,0 +1,3 @@
+pyautogui
+bs4
+requests
